@@ -1,10 +1,9 @@
 {
   "name": "reduce-keys",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Get Refile URL from key using SHA.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "@evanxsummers",
   "license": "ISC",
   "repository": {
@@ -13,6 +12,7 @@
   },
   "homepage": "https://github.com/evanx/reduce-keys",
   "dependencies": {
-    "app-bin": "^0.1.3"
+    "app-bin": "^0.1.3",
+    "lodash": "^4.17.4"
   }
 }
